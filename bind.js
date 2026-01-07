@@ -42,7 +42,7 @@ let printAddress = function (country) {
 
 printAddress.call(address10, "India");
 
-// |----- apply method______
+// |----- apply method_____
 
 //how we pass arguments to a function
 //apply method takes an array as an argument
