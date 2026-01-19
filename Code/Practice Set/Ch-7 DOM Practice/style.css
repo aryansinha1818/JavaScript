@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  background-color: goldenrod;
+}
+
+nav li {
+  list-style: none;
+  padding: 0 23px;
+}
